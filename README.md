@@ -6,7 +6,7 @@ This plugin is creating localized route groups. Sets application locale based on
 
 ### Run composer require
 
-> composer require bitandpixel/route-localization
+> composer require hlacos/route-localization
 
 ### Publish configuration
 
