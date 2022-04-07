@@ -1,5 +1,5 @@
 {
-    "name": "bitandpixel/route-localization",
+    "name": "hlacos/route-localization",
     "description": "Simple laravel package to handle localized routings.",
     "type": "library",
     "autoload": {
