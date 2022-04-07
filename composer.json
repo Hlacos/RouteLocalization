@@ -2,6 +2,7 @@
     "name": "hlacos/route-localization",
     "description": "Simple laravel package to handle localized routings.",
     "type": "library",
+    "version": "1.0.0",
     "autoload": {
         "psr-4": {
             "BAP\\RouteLocalization\\": "src/"
@@ -20,7 +21,7 @@
             "email": "radics.bence@bitandpixel.hu"
 	}
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require-dev": {
         "squizlabs/php_codesniffer": "4.0.x-dev",
         "phpmd/phpmd": "dev-master"
