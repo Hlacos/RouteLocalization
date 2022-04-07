@@ -1,0 +1,28 @@
+{
+    "name": "bitandpixel/route-localization",
+    "description": "Simple laravel package to handle localized routings.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "BAP\\RouteLocalization\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "László Heiszmann",
+            "email": "heiszmann.laszlo@bitandpixel.hu"
+        },
+        {
+	    "name": "Bence Radics",
+            "email": "radics.bence@bitandpixel.hu"
+	}
+    ],
+    "minimum-stability": "dev",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "4.0.x-dev",
+        "phpmd/phpmd": "dev-master"
+    }
+}
